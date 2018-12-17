@@ -375,6 +375,8 @@ In terms of software, I can't recommend [Things](https://culturedcode.com/things
 * [The Non-Designer's Design Book](https://www.amazon.com/Non-Designers-Design-Book-3rd/dp/0321534042) 📖 - despite its catchy title, it's actually a great book with a very memorable acronym to learn about how easy it is to design great documents.
 * William Lidwell, Kritina Holden, Jill Butler, [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530079) 📖.
 * [A Five Minutes Guide to Better Typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
+* Nancy Duarte, [Slide:ology: The Art And Science Of Creating Great Presentations](https://www.duarte.com/books/slideology/)
+* Chris Anderson, [TED Talks: The Official TED Guide to Public Speaking](https://www.ted.com/read/ted-talks-the-official-ted-guide-to-public-speaking)
 
 Some great examples of presentations:
 
