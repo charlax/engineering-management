@@ -151,7 +151,6 @@ Cognitive biases don't only apply to hiring... They can impact performance revie
 
 ## Career growth and job ladder
 
-* [Titles are Toxic](http://randsinrepose.com/archives/titles-are-toxic/), Rands in Repose. A pretty interesting take on titles.
 * [Engineering Growth Framework](https://medium.com/s/engineering-growth-framework), Medium pulls back the curtain on how they do career growth.
 
 ## Code reviews
