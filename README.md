@@ -819,3 +819,4 @@ Here are some blogs and newsletter I follow.
 
 ## Blogs
 
+* [Hacker News](https://news.ycombinator.com/): mandatory if you want to stay abreast of what's going in tech. There are some good management articles from time to time as well. Since it can be a pretty huge time sink, I subscribe to a curation of the top articles instead ([RSS feed here](http://www.daemonology.net/hn-daily/index.rss)).
