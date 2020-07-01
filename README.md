@@ -381,6 +381,7 @@ Feel free to also checkout the general diversity section.
 * [A Quick Puzzle to Test Your Problem Solving](http://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html?_r=0)... and a great way to learn about confirmation bias (which is not only applicable to hiring but also to testing).
 * [The Diversity Hiring Playbook](https://business.linkedin.com/content/dam/business/talent-solutions/global/en_US/site/pdf/playbooks/linkedin-diversity-hiring-playbook-en-us.pdf), LinkedIn. Pretty high level but probably a good start.
 * 🎞 [Hiring women at Klarna](https://www.youtube.com/watch?v=JWYNst72ucI)
+* [Achieving Diversity in Times of Crisis](https://www.codility.com/blog/achieving-diversity-in-times-of-crisis/)
 
 ### Hiring: interviews
 
