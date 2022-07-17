@@ -159,6 +159,7 @@ There are some other more specific books quoted below.
 
 - [Jason Evanish's list](https://jasonevanish.com/books/) (Lighthouse founder) is quite comprehensive.
 - [Holiday Book Recommendations for Engineering Managers, Software Engineers and Product Managers](https://blog.pragmaticengineer.com/holiday-tech-book-recommendations/#books-by-genre), Gergely Orosz
+- [Most Recommended Books to Make You a Better Engineering Manager](https://managersclub.com/most-recommended-books-engineering-leaders/), by Vidal Graupera, ManagersClub
 
 ## What is engineering management?
 
