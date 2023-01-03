@@ -560,7 +560,7 @@ Example trainings:
 - [It’s Never Too Early to Fire](https://a16z.com/2017/05/24/on-firing-why-when-how/), Andreessen Horowitz.
 - [A Primer on Giving Critical Feedback](http://www.tombartel.de//2016/05/21/a-primer-on-giving-critical-feedback/)
 - Feedback goes both ways: [Tool: Try Google’s Manager Feedback Survey](https://rework.withgoogle.com/guides/managers-give-feedback-to-managers/steps/try-googles-manager-feedback-survey/)
-- [Negative feedback antipatterns](http://blog.d3in.org/post/153942984306/negative-feedback-antipatterns)
+- [Negative feedback antipatterns](https://www.dein.fr/posts/2016-12-02-negative-feedback-antipatterns)
 - [Performance Reviews Are a Waste of Time](https://blog.bradfieldcs.com/performance-reviews-are-a-waste-of-time-87c88d7553b4): a good contrarian take on formal performance reviews
 - [The Open Feedback Circle (OFC)](https://medium.com/@padminipyapali/open-feedback-circle-a69601ea5dfd), a great idea by Padmini Pyapali.
   - We met once a month, sat around a table, and shared feedback with each other in front of our other teammates. This gathering took feedback exchange from being a biannual activity we dreaded to a monthly ritual we looked forward to.
@@ -786,7 +786,7 @@ Quotes:
 
 - [Humane Development](https://ernie.io/2014/12/17/humane-development/): "we are humans working with humans to develop software for the benefit of humans."
 - [Leadership is making a comeback](https://www.reaktor.com/blog/leadership-is-making-a-comeback/) : interesting article that proposes a model where the leader is neither a servant nor a hero, but a host.
-- [Management Philosophy](https://3002.ca/posts/management-philosophy/)
+- [Management Philosophy](https://www.3002.ca/2017/06/management-philosophy.html)
 - [12 "Manager READMEs" from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
 - 🎞 [What is your philosophy on leadership? How do you inspire your team to do their best?](https://www.youtube.com/watch?v=TQhns5AwAkA): beautiful sequence between Nelson Mandela (played by Morgan Freeman) and François Pienaar (Matt Damon).
 - [Why Software Development Requires Servant Leaders](https://adl.io/essays/why-software-development-requires-servant-leaders/)
