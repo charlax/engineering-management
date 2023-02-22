@@ -159,6 +159,7 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 - 📖 Patrick Lencioni, [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=sr_1_1?s=books&ie=UTF8&qid=1500281191&sr=1-1&keywords=dysfunctions).
 - 📖 Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead, Laszlo Bock. A pretty interesting description of Google's processes. A bit long at times.
 - 📖 [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) , Camille Fournier. A very practical book with lots of down-to-earth advices.
+- 📖 [Think Like a Software Engineering Manager](https://www.manning.com/books/think-like-a-software-engineering-manager) , Akanksha Gupta. A book about the skills you need to hire, train, and lead a successful software development team.
 
 There are some other more specific books quoted below.
 
