@@ -564,7 +564,7 @@ Example trainings:
 - [A Manager’s FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.u1iu04owe)
 - [This 90-Day Plan Turns Engineers into Remarkable Managers](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
 - [The New Manager Death Spiral](http://randsinrepose.com/archives/the-new-manager-death-spiral/), Rands in Repose.
-- [Learnings from six months as a first-time manager](http://blog.d3in.org/post/74917727213/learnings-from-six-months-as-a-first-time)
+- [Learnings from six months as a first-time manager](https://www.dein.fr/posts/2014-01-29-learnings-from-six-months-as-a-first-time)
 - [How to fail as a new engineering manager](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
 - [Choosing the Management Track](https://blog.danielna.com/choosing-the-management-track/)
   - You won’t code anymore.
