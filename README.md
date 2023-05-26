@@ -669,8 +669,6 @@ Checkout [Diversity in hiring](#diversity-in-hiring)
 - [Finding a Tech Leadership Job in Silicon Alley](https://medium.com/@Bar_Code/finding-a-tech-leadership-job-in-silicon-alley-3631e97ff33e#.2w4yzwtgx) (interviewing seen from the candidate experience point of view).
 - [How I Interview](https://rkoutnik.com/articles/How-I-Interview.html)
 - [What if companies interviewed translators the way they interview coders?](https://medium.freecodecamp.org/welcome-to-the-software-interview-ee673bc5ef6) - a great counter example of how interview can be disconnected from one's actual job.
-- [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers): some pretty good guidelines with original research.
-- [Interviewing](https://www.xaprb.com/blog/interviewing/), Baron Schwartz. A good explanation why you should only ask behavioral question about the _past_.
 - 🎞 [Monthy Python: a terrible candidate experience](https://www.youtube.com/watch?v=D4iFzweRf3E)
 - [Your interviews shouldn’t be spoilable](https://medium.com/@rafeco/your-interviews-shouldnt-be-spoilable-c9088ecea1ee)
   - How much should you share with the candidate? As much as an ethical person would share with a friend who they referred for the job.
@@ -688,7 +686,6 @@ Checkout [Diversity in hiring](#diversity-in-hiring)
   - Consistent lack of interest or low morale from interviewers
   - Your interviewers aren’t prepared for the interview
   - Lack of a clear direction on where the company is headed
-- [How to Freaking Find Great Developers By Having Them Read Code](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/)
 - [How to hire engineering talent without the BS](https://jes.al/2023/03/how-to-hire-engineering-talent-without-the-bs/)
   - Antipatterns: memory, speed
   - Best practices: upfront, realistic, structured, guided, empathetic,
