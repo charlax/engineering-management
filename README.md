@@ -1284,7 +1284,7 @@ See my [professional-programming section about problem solving](https://github.c
     - The boss must first distinguish between action information and status information. He must discipline himself not to act on problems his managers can solve.
 - Jason Yip, [It's Not Just Standing Up: Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html): standup are a pretty controversial topics. This article on Martin Fowler's blog provides a good list of patterns and anti-patterns to ensure they're a good productive use of everybody's time.
 - [15 Fundamental Laws of Software Development](https://www.exceptionnotfound.net/fundamental-laws-of-software-development/)
-- [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.jjb8slcxg)
+- [How we structure our work and teams at Basecamp](https://basecamp.com/articles/how-we-structure-our-teams)
 - [Will your project be a success? Find out in five minutes.](https://www.projectsmart.co.uk/health-check/project-question-answer.php)
 - Project Smart, [Project management tools](https://www.projectsmart.co.uk/tools.php)
 - [How should deadlines be used in software engineering?](https://blog.keen.io/how-should-deadlines-be-used-in-software-engineering/)
