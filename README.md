@@ -275,6 +275,7 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 - HBR, [How to Ask Better Questions](https://hbr.org/2009/05/real-leaders-ask.html)
 - [Mentor vs Advisor vs Coach](http://baxterblog.typepad.com/blog/2012/11/mentor-vs-advisor-vs-coach.html)
 - [How To Be Someone People Love To Talk To](http://www.bakadesuyo.com/2015/02/love-to-talk/)
+- [Running Effective 1-1s as an Engineering Manager] (https://adevait.com/blog/workplace/effective-one-on-one-meetings)
 - 🧰 [Mega list of 1 on 1 meeting questions compiled from a variety to sources](https://github.com/VGraupera/1on1-questions)
 - [130+ One on One Meeting Questions Great Managers Ask](https://getlighthouse.com/blog/one-on-one-meeting-questions-great-managers-ask/)
   - Building rapport & trust
