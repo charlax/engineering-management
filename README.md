@@ -994,6 +994,7 @@ Quote:
 - [Embrace Silence](https://tech.forter.com/embrace-silence.html)
 - [Simple Sabotage](https://www.amazon.com/Simple-Sabotage-Detecting-Behaviors-Undermine/dp/0062371606) "A Modern Field Manual for Detecting and Rooting Out Everyday Behaviors That Undermine Your Workplace". Covers anti-patterns of collaborative behavior, and provides specific recommendations for fixing these when they occur in meetings.
   - 🎞 [Designing and Running Effective Meetings](https://www.youtube.com/watch?v=rN5UJ4J36YY): "Some simple practices to make all your meetings more effective, and not just the ones you lead!"
+- [Liberating Structures](https://www.liberatingstructures.com/ls/), for when you need people engaging with hard problems! "Liberating Structures introduce tiny shifts in the way we meet, plan, decide and relate to one another. They put the innovative power once reserved for experts only in hands of everyone."
 
 ### Mentoring
 
