@@ -992,6 +992,7 @@ Quote:
 - ["My new favorite team ritual: A weekly meeting called "Fight Club" where you meet with your leadership team with the intention of having a conflict.](https://twitter.com/lennysan/status/1754554023318106596)
 - [Meetings *are* the work.](https://medium.com/@ElizAyer/meetings-are-the-work-9e429dde6aa3)
 - [Embrace Silence](https://tech.forter.com/embrace-silence.html)
+- [Simple Sabotage](https://www.amazon.com/Simple-Sabotage-Detecting-Behaviors-Undermine/dp/0062371606) "A Modern Field Manual for Detecting and Rooting Out Everyday Behaviors That Undermine Your Workplace". Covers anti-patterns of collaborative behavior, and provides specific recommendations for fixing these when they occur in meetings.
 
 ### Mentoring
 
