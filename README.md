@@ -167,7 +167,9 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 - 📖 Patrick Lencioni, [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=sr_1_1?s=books&ie=UTF8&qid=1500281191&sr=1-1&keywords=dysfunctions).
 - 📖 Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead, Laszlo Bock. A pretty interesting description of Google's processes. A bit long at times.
 - 📖 [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) , Camille Fournier. A very practical book with lots of down-to-earth advices.
-- 📖 [Team Topologies](https://itrevolution.com/product/team-topologies/), from ITRevolution Press. Discusses the intricacies of managing Engineering Departments, and especially patterns for improving team interactions. 
+- 📖 [Team Topologies](https://itrevolution.com/product/team-topologies/), from ITRevolution Press. Discusses the intricacies of managing Engineering Departments, and especially patterns for improving team interactions.
+- 📖 [The Effective Executive](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459) by Peter Drucker, Seminal Work in Management. Discusses challenges of management, especially managing Knowledge Workers. Proposes principles for effective decision-making and continued improvement of one's organization
+  - May also serve as grounding for growing beyond Engineering Management, as well as working with other departments. 
 
 There are some other more specific books quoted below.
 
@@ -640,6 +642,7 @@ Hiring:
 ### Executives
 
 - [The One Key to Dealing with Senior Executives: Answer the Question!](https://kellblog.com/2012/01/17/the-one-key-to-dealing-with-senior-executives-answer-the-question/)
+
 
 ### FinOps (cost)
 
