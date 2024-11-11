@@ -167,6 +167,9 @@ You can find a short summary in video [here](https://www.youtube.com/watch?v=psA
 - 📖 Patrick Lencioni, [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=sr_1_1?s=books&ie=UTF8&qid=1500281191&sr=1-1&keywords=dysfunctions).
 - 📖 Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead, Laszlo Bock. A pretty interesting description of Google's processes. A bit long at times.
 - 📖 [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) , Camille Fournier. A very practical book with lots of down-to-earth advices.
+- 📖 [Team Topologies](https://itrevolution.com/product/team-topologies/), from ITRevolution Press. Discusses the intricacies of managing Engineering Departments, and especially patterns for improving team interactions.
+- 📖 [The Effective Executive](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459) by Peter Drucker, Seminal Work in Management. Discusses challenges of management, especially managing Knowledge Workers. Proposes principles for effective decision-making and continued improvement of one's organization
+  - May also serve as grounding for growing beyond Engineering Management, as well as working with other departments. 
 
 There are some other more specific books quoted below.
 
@@ -640,6 +643,7 @@ Hiring:
 
 - [The One Key to Dealing with Senior Executives: Answer the Question!](https://kellblog.com/2012/01/17/the-one-key-to-dealing-with-senior-executives-answer-the-question/)
 
+
 ### FinOps (cost)
 
 - [Efficiency: Managing Infrastructure Costs](https://infraeng.dev/efficiency/)
@@ -991,6 +995,9 @@ Quote:
 - ["My new favorite team ritual: A weekly meeting called "Fight Club" where you meet with your leadership team with the intention of having a conflict.](https://twitter.com/lennysan/status/1754554023318106596)
 - [Meetings *are* the work.](https://medium.com/@ElizAyer/meetings-are-the-work-9e429dde6aa3)
 - [Embrace Silence](https://tech.forter.com/embrace-silence.html)
+- [Simple Sabotage](https://www.amazon.com/Simple-Sabotage-Detecting-Behaviors-Undermine/dp/0062371606) "A Modern Field Manual for Detecting and Rooting Out Everyday Behaviors That Undermine Your Workplace". Covers anti-patterns of collaborative behavior, and provides specific recommendations for fixing these when they occur in meetings.
+  - 🎞 [Designing and Running Effective Meetings](https://www.youtube.com/watch?v=rN5UJ4J36YY): "Some simple practices to make all your meetings more effective, and not just the ones you lead!"
+- [Liberating Structures](https://www.liberatingstructures.com/ls/), for when you need people engaging with hard problems! "Liberating Structures introduce tiny shifts in the way we meet, plan, decide and relate to one another. They put the innovative power once reserved for experts only in hands of everyone."
 
 ### Mentoring
 
