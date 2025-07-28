@@ -1906,7 +1906,7 @@ Here are some blogs and newsletter I follow.
 - [FRICTION with Bob Sutton](https://art19.com/shows/friction-with-bob-sutton?page=3). This podcast does not have any new episode since 2017, but it has some really great content. Great conversations. Lots of stories.
     - Part organizational design. Part therapy. Organizational psychologist and Stanford Professor Bob Sutton is back to tackle friction, the phenomenon that frustrates employees, fatigues teams and causes organizations to flounder and fail.
 - [CTO Insights with Katerina Trajchevska](https://ctoinsights.adevait.com/). A great podcast on all things CTO—featuring thoughtful conversations with tech leaders like DHH (Basecamp), Kent Beck (Agile Manifesto), and more.
-
+- [The Pragmatic Engineer Podcast with Gergely Orosz](https://newsletter.pragmaticengineer.com/podcast)  This podcast features candid conversations with senior engineering leaders from top tech companies. Topics include scaling teams, navigating hypergrowth, building resilient systems, and leading with impact—grounded in real-world experience.
 
 ## My other lists
 
