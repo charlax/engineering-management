@@ -828,7 +828,7 @@ Specifics about hiring engineering managers:
 #### Hiring: interview questions
 
 - [45 sample behavioral questions for interview with developer](https://devskiller.com/45-behavioral-questions-to-use-during-non-technical-interview-with-developers/)
-- [30 most common behavioral interview questions](https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer)
+- [25 behavioral interview questions & storytelling tips](https://www.amtec.us.com/blog/behavioral-interview-questions)
 - [Behavioral interviews](http://career.egr.uh.edu/sites/career.egr.uh.edu/files/files/behavioral-interview.pdf)
 - 🧰 [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions): a list of list of interview questions.
 - [40 Favorite Interview Questions from Some of the Sharpest Folks We Know](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/), First Round Review
