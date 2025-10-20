@@ -1340,6 +1340,12 @@ In terms of task management software, I can't recommend [Things](https://culture
   - Shipping the MVP can quickly evolve into incrementally working out interesting coding problems, at the cost of making measurable improvements to the user experience.
   - “Working backward from customer needs is a huge amount of work. But it will save you even more work later.” — Jeff Bezos
   - In reality, no products are desirable to customers. Customers have desirable outcomes, which products can help them reach.
+- [Why most product planning is bad and what to do about it](https://blog.railway.com/p/product-planning-improvement) provides a thought-provoking take on OKR and a different approach focused on problems.
+  - Good critique of the OKR model: (1) objective are not super useful to prioritize work on an unlimited objective like "grow the business" or "improve conversion rate (2) they're inflexible.
+  - Also: OKRs rely on the whole organization to be great at goal setting, which requires a lot of teaching.
+  - My note: OKR do lead to over-discussing KR, under-discussing KPIs
+  - Their approach: only pitch and prioritize problems worth solving with a simple P0 (existential risk), P1 (must do), P2 (nice to have)
+  - Over 4 days every quarter with public commitment.
 
 > Truth emerges more readily from error than from confusion.
 > Francis Bacon
