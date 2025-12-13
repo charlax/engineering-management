@@ -1592,6 +1592,7 @@ See also my [professional-programming repo](https://github.com/charlax/professio
 
 - [The code quality pyramid](https://www.fabianzeindl.com/posts/the-codequality-pyramid)
 - [Time for a Code-Yellow?: A Blunt Instrument That Works](https://nilam.ca/2024/11/02/time-for-a-code-yellow-a-blunt-instrument-that-works/)
+- [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/) (about fixit weeks)
 
 ### Release management
 
