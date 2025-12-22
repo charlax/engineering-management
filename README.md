@@ -1158,6 +1158,7 @@ See also [Data organization](#data-organization)
   - "It’s not always as simple as starting with a vision and then using the resources available to build it. They often emerge together or in an intertwined way, and things continually leap forward over and over."
   - "In complex ecosystems like computing, there just seems to be some kind of ongoing relationship between deep understanding of how the tools we use to create things function and the quality or creativity of the output we get as a result."
   - "Many of today’s “best practices” have been drawn from long-established internet companies like Google. However, the problem with copying their current practices on the basis of their success is that most of those companies found near-invincible business models that basically printed money, and so almost any organizational or management practice developed or selected at random likely would continue to be “successful” to some degree."
+- [Startup Engineering Team Organisation](https://marcgg.com/blog/2025/11/17/cross-team-work/)
 
 ### Performance management
 
