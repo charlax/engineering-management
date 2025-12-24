@@ -1074,6 +1074,9 @@ Quote:
 
 > @jasonfried: You don’t get to call yourself a leader. That’s up to other people.
 
+> "Only three things happen naturally in organizations: friction, confusion, and underperformance. Everything else requires leadership."
+> – Peter Drucker
+
 ### Motivation
 
 - 🎞 [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc) (summary of Daniel Pink's book).
@@ -1173,6 +1176,7 @@ See also [Data organization](#data-organization)
 - [Hey, wait – is employee performance really Gaussian distributed??](https://timdellinger.substack.com/p/hey-wait-is-employee-performance)
   - Article argues that it's Pareto-distributed instead.
 - [The Worst Programmer I Know](https://dannorth.net/the-worst-programmer/): don’t try to measure the individual contribution of a unit in a complex adaptive system, because the premise of the question is flawed
+- [Managing Underperformers](https://jackdanger.com/managing-underperformers/)
 
 ### Personal productivity
 
@@ -1594,6 +1598,7 @@ See also my [professional-programming repo](https://github.com/charlax/professio
 - [The code quality pyramid](https://www.fabianzeindl.com/posts/the-codequality-pyramid)
 - [Time for a Code-Yellow?: A Blunt Instrument That Works](https://nilam.ca/2024/11/02/time-for-a-code-yellow-a-blunt-instrument-that-works/)
 - [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/) (about fixit weeks)
+- [Andon (manufacturing)](https://en.wikipedia.org/wiki/Andon_(manufacturing)): "The alert can be activated manually by a worker using a pullcord or button or may be activated automatically by the production equipment itself. The system may include a means to pause production so the issue can be corrected."
 
 ### Release management
 
