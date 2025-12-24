@@ -1,16 +1,16 @@
 repos:
 -   repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v2.3.0
+    rev: v6.0.0
     hooks:
     -   id: check-yaml
     -   id: end-of-file-fixer
     -   id: trailing-whitespace
 -   repo: https://github.com/psf/black
-    rev: 19.3b0
+    rev: 25.12.0
     hooks:
     -   id: black
 -   repo: https://github.com/thlorenz/doctoc
-    rev: v1.4.0
+    rev: v2.2.0
     hooks:
     -   id: doctoc
         args:
