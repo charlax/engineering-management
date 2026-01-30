@@ -782,6 +782,8 @@ See the Performance section too.
 - [Dumb and gets things done](https://www.johndcook.com/blog/2010/12/27/dumb-and-gets-things-done/)
   - Joel Spolsky says that the ideal programmer is someone who is smart and gets things done. But what about people who are dumb and get things done?
   - Leaders need to make things happen. Teachers need to teach. Programmers need to write code. These basic skills are necessary, but they are not enough.
+- [The Quarterback Paradox](https://noamwakrat.medium.com/the-quarterback-paradox-e93e4325bac1)
+  - "Tom Brady was drafted in the sixth round, did not stand out physically, and entered a stable organization that allowed him to learn and develop gradually."
 
 #### Hiring: interviews
 
