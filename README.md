@@ -728,6 +728,7 @@ See the Performance section too.
 - [Should managers still code?](https://theengineeringmanager.substack.com/p/should-managers-still-code)
   - If you mean being the primary implementer of features, then probably not. If you mean being an integral part of how your team produces code, then yes, absolutely. I recommend it highly.
 - [Being in the details](https://www.theengineeringmanager.com/managing-managers/being-in-the-details/)
+- [Why I Still Write Code as an Engineering Manager](https://terriblesoftware.org/2026/01/22/why-i-still-write-code-as-an-engineering-manager/)
 
 ### Hiring
 
