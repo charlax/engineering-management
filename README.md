@@ -791,6 +791,7 @@ See the Performance section too.
 - Joel Spolsky, [The Phone Screen](http://www.joelonsoftware.com/articles/ThePhoneScreen.html)
 - 🎞 [The pursuit of happyness' interview scene](https://www.youtube.com/watch?v=gHXKitKAT1E)
 - [Real talk: the technical interview is broken](https://medium.com/@CODE2040/real-talk-the-technical-interview-is-broken-b84b8375dccb#.vxuvtrhad)
+- [AI Interview Coach](https://em-tools.io/interview-prep): Voice-based AI behavioral interview practice for engineering managers and software engineers. Practice EM behavioral interviews with AI-powered feedback and STAR-format scoring.
 - [Finding a Tech Leadership Job in Silicon Alley](https://medium.com/@Bar_Code/finding-a-tech-leadership-job-in-silicon-alley-3631e97ff33e#.2w4yzwtgx) (interviewing seen from the candidate experience point of view).
 - [How I Interview](https://rkoutnik.com/articles/How-I-Interview.html)
 - [What if companies interviewed translators the way they interview coders?](https://medium.freecodecamp.org/welcome-to-the-software-interview-ee673bc5ef6) - a great counter example of how interview can be disconnected from one's actual job.
