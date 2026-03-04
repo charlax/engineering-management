@@ -387,6 +387,7 @@ Also check the [charlax/professional-programming's Career Growth section](https:
   - Level 4 — Team Force Multiplier
   - Level 5 — Group Force Multiplier
   - Level 6 — Company Force Multiplier
+- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) has some good ideas for rewarding simplicity in designs (promotions, celebrations, etc.).
 
 Curated examples of job ladder/career development matrix:
 
