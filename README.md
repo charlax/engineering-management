@@ -293,7 +293,7 @@ I don't necessarily agree with everything listed here. Actually, you'll see that
 - [Tool: Hold effective 1:1 meetings](https://rework.withgoogle.com/guides/managers-coach-managers-to-coach/steps/hold-effective-1-1-meetings/)
 - [21 Reasons You Should Start Having One on Ones with Your Team](https://jasonevanish.com/2014/05/21/21-reasons-you-should-start-having-one-on-ones-with-your-team/)
 - [What is an Inquiring Leader?](https://www.linkedin.com/pulse/what-inquiring-leader-marilee-adams)
-- HBR, [How to Ask Better Questions](https://hbr.org/2009/05/real-leaders-ask.html)
+- HBR, [How to Ask Better Questions](https://hbr.org/2009/05/real-leaders-ask)
 - [Mentor vs Advisor vs Coach](http://baxterblog.typepad.com/blog/2012/11/mentor-vs-advisor-vs-coach.html)
 - [How To Be Someone People Love To Talk To](http://www.bakadesuyo.com/2015/02/love-to-talk/)
 - 🧰 [Mega list of 1 on 1 meeting questions compiled from a variety to sources](https://github.com/VGraupera/1on1-questions)
