@@ -621,6 +621,10 @@ See also the section about [Organizational structure](#organizational-structure)
   - Quantify the business value of projects
 - [Measuring Developer Productivity via Humans](https://martinfowler.com/articles/measuring-developer-productivity-humans.html), Martin Fowler
 - [2024 DORA report](https://services.google.com/fh/files/misc/2024_final_dora_report.pdf)
+- [You're Measuring AI Spend, Not AI Value](https://sawinyh.com/blog/measuring-ai-spend-not-value/): AI broke velocity and lines-of-code as proxies. Proposes cost-per-verified-outcome (CPVO) for governing AI dev-tool spend.
+  - Cost-per-verified-outcome (CPVO): team-tagged AI spend divided by outcomes that shipped and stayed shipped
+  - Review tax: the human and machine review cost AI-generated code pushes downstream
+  - Verified share and a four-cut team dashboard, kept at team altitude to avoid per-person leaderboards
 
 ### Diversity and inclusion
 
