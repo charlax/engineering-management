@@ -785,6 +785,7 @@ See the Performance section too.
   - Leaders need to make things happen. Teachers need to teach. Programmers need to write code. These basic skills are necessary, but they are not enough.
 - [The Quarterback Paradox](https://noamwakrat.medium.com/the-quarterback-paradox-e93e4325bac1)
   - "Tom Brady was drafted in the sixth round, did not stand out physically, and entered a stable organization that allowed him to learn and develop gradually."
+- [The AI Time Bomb: Are You Prepared?](https://gabor.mayermayer.hu/2025/03/23/the-ai-time-bomb/), Gabor Mayer. How AI-assisted development changes what engineering teams should screen for when hiring.
 
 #### Hiring: interviews
 
