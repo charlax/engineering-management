@@ -388,6 +388,7 @@ Also check the [charlax/professional-programming's Career Growth section](https:
   - Level 5 — Group Force Multiplier
   - Level 6 — Company Force Multiplier
 - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) has some good ideas for rewarding simplicity in designs (promotions, celebrations, etc.).
+- [How to become head of engineering at your current company](https://www.marian.coach/how-to-become-head-of-engineering/): the path from tech lead or EM to head of engineering, and when moving to another company is the better call.
 
 Curated examples of job ladder/career development matrix:
 
